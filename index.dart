@@ -1,0 +1,4 @@
+voidmain(){
+
+  print("hello world");
+}
